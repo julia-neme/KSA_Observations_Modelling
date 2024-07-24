@@ -1,3 +1,9 @@
+## To-dos (after meeting)
+ - Find out what they are learning at KIT 101
+ - Talk with Sophie/Lawrence how they are using python (nectar, google collab, etc)
+ - Mylo page (sandpit) build page
+
+
 ## Observations
 
 | Class # | Topic                    | Learning goals/activities                                                                                                                                                                                                                                                               | Resources                                                                                        |
