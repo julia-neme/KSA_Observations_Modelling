@@ -4,6 +4,11 @@
  - Mylo page (sandpit) build page
  - Talk to Lawrence Sambrooks (Paul)
 
+# Content
+
+The tables below summarize the content created (and to be created) for the ocean's component of this course. The jupyter notebooks for each class can be run interactively, and require a conda environment with specific libraries installed (see [Requirements to run these notebooks](#requirements-to-run-these-notebooks))
+
+Embedded within the notebooks are questions and exercises for the students to answer. These are summarised in the [List of questions](https://github.com/julia-neme/KSA_Observations_Modelling/blob/main/List_of_questions.md).
 
 ## Observations
 
@@ -24,3 +29,10 @@ Note: RV Investigator tour?
 | 2       | (c) ACCESS-OM2 simulations                                | - Reproduce a comparison with observations from Kiss et al. 2020<br>- Show fun experiments we can do/not-so-fun experiments we have done?                                         | Interview with Andrew Kiss, Andy Hogg, Adele?          |
 | 3       | (d) ACCESS-OM2 future projections (?)                     |                                                                                                                                                                                   |                                                        |
 | 4       | (e) Regional MOM6 configurations with Ashley's setup      | - Get a regional configuration and do a fun little experiment? Go crazy, I'm thinking something like splitting Tassie in two, or joining it to the mainland.                      | Ashley's documentation and interview                   |
+
+
+# Requirements to run these notebooks
+
+You can find this repository, with all the data necessary to run the notebooks in `/g/data/jk72/jn8053/KSA_Observations_Modelling`.
+
+If running in a local environment, the following libraries need to be installed: `cartopy`, `cmocean`, `glob`, `gsw`, `matplotlib`, `metpy`, `numpy`, `scipy`, `xarray` and `xarrayMannKendall`. 
