@@ -10,6 +10,8 @@ The tables below summarize the content created (and to be created) for the ocean
 
 Embedded within the notebooks are questions and exercises for the students to answer. These are summarised in the [List of questions](https://github.com/julia-neme/KSA_Observations_Modelling/blob/main/List_of_questions.md).
 
+The [Working with CoPilot](https://github.com/julia-neme/KSA_Observations_Modelling/blob/main/Working_with_CoPilot.ipynb) notebook provides some recommendations and showcases an example in which we start with absolutely nothing, and with the adequate prompts we get CoPilot to plot us a climatology of NSIDC, a time series annual averages of sea ice extent, and monthly cycle for each year. It shows how bad prompting returns funky results, and how you can iterate to finally get what you where asking.
+
 ## Observations
 
 | Class # | Topic                    | Learning goals/activities                                                                                                                                                                                                                                                               | Resources                                                                                        |
