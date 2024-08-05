@@ -16,9 +16,11 @@ Summary of the questions and exercises embedded within the course notebooks. Cli
 
 #### Multiple CTDs
 
- - **Question 1**: <br> _a. What is the difference between temperature and conservative temperature; and practical salinity and absolute salinity?_ <br> _b. Looking at the profiles above, can you guess which ones correspond to each of the three regions on the map we made? Plot the figure but with a different color for each profile, like we did for the locations in the map._
- - **Question 2**: <br> _Can you identify which regions in the TS plot are stabily stratified and which ones aren't?_
- - **Question 3**: <br> _a. The colormap we used for the plot above, `jet`, is not colorblind friendly. Check out `cmocean` and choose a better colormap._ <br> _b. Instead of colouring by pressure, look at what other variables our CTD profiles have, and choose another (i.e. oxygen, nutrients). Play around with `vmin`, `vmax` to get the most out of your plot, choose different colormaps, etc._
+ - **Question 1**: <br> _Try [other projections](https://scitools.org.uk/cartopy/docs/v0.15/crs/projections.html) from `cartopy`, see if you can change the colour of the land, etc. Which one do you think is more appropriate to use in this case?_
+ - **Question 2**: <br> _In the figure below, we have replaced `pcolormesh` by `contourf`. What is the difference? Which one do you think is better and why?_
+ - **Question 3**: <br> _Looking at the profiles above, can you guess which ones correspond to each of the three regions on the map we made? Plot the figure but with a different color for each profile, like we did for the locations in the map._
+ - **Question 4**: <br> _Can you identify which regions in the TS plot are stabily stratified and which ones aren't?_
+ - **Question 5**: <br> _a. The colormap we used for the plot above, `jet`, is not colorblind friendly. Check out `cmocean` and choose a better colormap._ <br> _b. Instead of colouring by pressure, look at what other variables our CTD profiles have, and choose another (i.e. oxygen, nutrients). Play around with `vmin`, `vmax` to get the most out of your plot, choose different colormaps, etc._
 </details>
 
 <details>
