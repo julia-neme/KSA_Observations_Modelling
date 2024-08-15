@@ -17,6 +17,7 @@ The [Working with CoPilot](https://github.com/julia-neme/KSA_Observations_Modell
 ## Observations
 
 In these four classes students will learn:
+
 	1. What is a netcdf file, how to open it using `xarray` and how to explore the file structure and metadata (including dimensions, coordinates and attributes)
 	2. Work with ungridded data (CTDs) and interpolate onto a grid
 	3. Perform operations in gridded data products (selection, slicing, averages in different dimensions, integration, calculation of trends)
