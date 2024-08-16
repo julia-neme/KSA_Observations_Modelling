@@ -76,5 +76,6 @@ I have calculated the velocities here, but have purposefully inverted the sign s
 
  - **Question 1**: <br> _What do you expect this plot to be like? How are the vectors and the contours of adt going to be with respect to each other?_
  - **Question 2**: <br> _How does the circulation here compare to your expectations after the discussion on Question 1? To help you answer this, you can plot an even smaller regions to better visualise contours and vectors._ <br> _Spoiler: there is something not quite right. Once you've found it, fix it!_
+ - **Question 3**: <br> _Where do you see strongest currents? Looking at the sea surface height, can you explain why the currents are strongest there?_
 
 </details>
