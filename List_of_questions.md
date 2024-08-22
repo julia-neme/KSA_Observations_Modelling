@@ -79,3 +79,24 @@ I have calculated the velocities here, but have purposefully inverted the sign s
  - **Question 3**: <br> _Where do you see strongest currents? Looking at the sea surface height, can you explain why the currents are strongest there?_
 
 </details>
+
+<details>
+<summary> Class 5: Meridional Overturning Circulation </summary>
+
+#### Meridional Overturning Circulation
+
+ - **Question 1**: <br> _Using the same logic, explain the direction of the transport between the diamond and the star._
+ - **Question 2**: <br> _With this knowledge, coming back to the circumpolar map, explain what the circulation looks like from the streamfunction._
+ - **Question 3**: <br> _What's the direction of the transport in the abyssal cell?_
+ - **Question 4**: <br> _[Donohue et al. (2016)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL070319) estimated the mean Drake Passage transport to be 173.3 Sv. How does that compare to our estimate?_
+ - **Question 5**: <br> _The Ross Gyre is the other subpolar gyre in the Southern Ocean, located in the Ross Sea. It is the other area of negative $\psi$ in our circumpolar map. Calculate the seasonal cycle in this gyre's transport._
+
+#### Meridional Overturning Circulation
+
+ - **Question 1**: <br> _Describe the direction of the circulation in each of these areas, remembering that $T_y = \frac{\partial \psi}{\partial z}$. So, as you go deeper, $\partial z$ is negative - look at the sign of $\partial \psi$. Can you identify the abyssal cell? There is something strange... can you identify what it is?_
+ - **Question 2**: <br> _Describe the circulation in the plot above, and associated water masses._
+ - **Question 3**: <br> _Using the methods in `1_Transport_streamfunction.ipynb`, calculate the strength of the abyssal cell of the MOC, using the streamfunction in density coordinates. Compare the strength between the streamfunction with and without eddies._
+
+
+</details>
+
