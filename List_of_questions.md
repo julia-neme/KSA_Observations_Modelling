@@ -113,11 +113,12 @@ I have calculated the velocities here, but have purposefully inverted the sign s
 
 #### Future changes Southern Ocean
 
- - **Question 1**: <br> _Discuss, given the above changes, what would you expect to see happen to the ocean's circulation, stratification, temperature/salinity structure, etc._
+ - **Question 1**: <br> _Discuss, given the changes to the forcing fields, what would you expect to see happen to the ocean's circulation, stratification, temperature/salinity structure, etc. Don't be afraid to speculate._
  - **Question 2**: <br> _What variables do we have available?_
  - **Question 3**: <br> _Calculate the changes in temperature and salinity at ~500m depth, which is the depth at which Circumpolar Deep Water sits in the water column. Discuss the resulting plots._
- - **Question 4**: <br> __
- - **Question 5**: <br> __
+ - **Question 4**: <br> _What has happened to the ASC in the perturbation simulation? Is it stronger or weaker than CONTROL?_
+ - **Question 5**: <br> _This one is a bit more tricky: identify the bottom-intensified ASC, and describe what has happened in the perturbation experiment._
+ - **Question 5**: <br> _Plot the same thing, but for the warm shelf regime (reversed ASC)._
 
 
 </details>
