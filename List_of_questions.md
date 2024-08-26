@@ -81,7 +81,7 @@ I have calculated the velocities here, but have purposefully inverted the sign s
 </details>
 
 <details>
-<summary> Class 5: Meridional Overturning Circulation </summary>
+<summary> Class 6: Meridional Overturning Circulation </summary>
 
 #### Meridional Overturning Circulation
 
@@ -100,3 +100,24 @@ I have calculated the velocities here, but have purposefully inverted the sign s
 
 </details>
 
+<details>
+<summary> Class 7: End of Century simulations </summary>
+
+#### Future changes model experiment
+
+ - **Question 1**: <br> _What variables are included in our forcing field files?_
+ - **Question 2**: <br> _There is something wrong in our plots. Correct it._
+ - **Question 3**: <br> _What do you think the changes to incoming longwave radiation are due to? How are these and the surface temperature changes related?_
+ - **Question 4**: <br> _Using the plots above, summarise the changes applied to the forcing fields used to run the perturbation experiments. Remember that the changes are representative of future projections for a SSP585 scenario in CMIP6 models._
+ - **Question 5**: <br> _We have looked at the changes in the time mean forcing fields. Explore the seasonality of the changes. For example:_ <br> - _Compare changes in wind strength changes between summer and winter._ <br> - _Surface temperatures - are they changing more in a given season?_ <br> - _Same with precipitation._
+
+#### Future changes Southern Ocean
+
+ - **Question 1**: <br> _Discuss, given the above changes, what would you expect to see happen to the ocean's circulation, stratification, temperature/salinity structure, etc._
+ - **Question 2**: <br> _What variables do we have available?_
+ - **Question 3**: <br> _Calculate the changes in temperature and salinity at ~500m depth, which is the depth at which Circumpolar Deep Water sits in the water column. Discuss the resulting plots._
+ - **Question 4**: <br> __
+ - **Question 5**: <br> __
+
+
+</details>
