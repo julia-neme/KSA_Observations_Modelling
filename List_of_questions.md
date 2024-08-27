@@ -122,3 +122,18 @@ I have calculated the velocities here, but have purposefully inverted the sign s
 
 
 </details>
+
+<details>
+<summary> Class 8: End of Century simulations (continued) </summary>
+
+#### The effect of meltwater
+
+ - **Question 1**: <br> _Using the figures from last class, discuss the changes that you observe in these simulations. How do they differ/not differ from the simulations without meltwater?_
+
+#### Isolating the effect of meltwater
+
+ - **Question 1**: <br> _This is the change to the DP transport due only to meltwater. How does it compare to the changes in the two indvidual simulations from last class? What's the relationship between them?_
+ - **Question 2**: <br> _Similar to the Drake Passage transport, this represents the change in the strength of the MOC due to meltwater only. How does it compare to the strength of the individual simulations?_
+ - **Question 3**: <br> _Discuss the changes to teh ASC due to meltwater only. Look at, what was in the CONTROL, a bottom-intensified area. Do you think it still belongs to the same regime?_
+
+</details>
