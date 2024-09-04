@@ -48,3 +48,5 @@ Note: RV Investigator tour?
 You can find this repository, with all the data necessary to run the notebooks in `/g/data/jk72/jn8053/KSA_Observations_Modelling`.
 
 If running in a local environment, the following libraries need to be installed: `cartopy`, `cmocean`, `glob`, `gsw`, `matplotlib`, `metpy`, `numpy`, `scipy`, `xarray` and `xarrayMannKendall`. 
+
+**For instructions on how to set up a python working environment in your local computer, head over to the [Wiki](https://github.com/julia-neme/KSA_Observations_Modelling/wiki)**
