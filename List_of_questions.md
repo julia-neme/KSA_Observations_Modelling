@@ -67,7 +67,7 @@ Summary of the questions and exercises embedded within the course notebooks. Cli
 
 #### Introduction to satellite altimetry
 
- - **Question 1**: <br> _Identify in the zonal mean plot above the regions that correspond to the gyre circulation and the Antarctic Circumpolar Current. What is the logic behind your identification? Which region would have a stronger circulation?_
+ - **Question 1**: <br> _Identify in the zonal mean plot above the regions that correspond to the gyre circulation and the Antarctic Circumpolar Current. What is the logic behind your identification? Which region would have a stronger circulation? In what direction is the circulation?_
  - **Question 2**: <br> _In the figure above, red colours represent regions where that season's sea level is higher than the mean, and blue regions where it is lower than the mean. Notice how around the Antarctic margins there is a sort of "see-saw" pattern to the changes: when sea level goes down close to the coast like in DJF and to a lesser extent SON, further north it goes up!_ <br> _Taking this into account, what do you think the above changes in sea level throughout the seasons impact the the surface circulation? Little help: during MAM the surface circulation around the Antarctic margins speeds up! Why? Describe other changes._
 
 #### SO circulation from geostrophy
