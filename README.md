@@ -1,28 +1,31 @@
-## To-dos (after meeting)
- - Find out what they are learning at KIT 101
- - Talk with Sophie how they are using python (nectar, google collab, etc)
- - Mylo page (sandpit) build page
- - Talk to Lawrence Sambrooks (Paul)
+# KSA206 course development
 
-# Content
-
-The tables below summarize the content created (and to be created) for the ocean's component of this course. The jupyter notebooks for each class can be run interactively, and require a conda environment with specific libraries installed (see [Requirements to run these notebooks](#requirements-to-run-these-notebooks))
-
-Embedded within the notebooks are questions and exercises for the students to answer. These are summarised in the [List of questions](https://github.com/julia-neme/KSA_Observations_Modelling/blob/main/List_of_questions.md).
+This repository contains the Jupyter Notebooks created for the ocean component of the KSA 206 course. Embedded within the notebooks are questions and exercises for the students to answer. These are summarised in the [List of questions](https://github.com/julia-neme/KSA_Observations_Modelling/blob/main/List_of_questions.md).
 
 The [Working with CoPilot](https://github.com/julia-neme/KSA_Observations_Modelling/blob/main/Working_with_CoPilot.ipynb) notebook provides some recommendations and showcases an example in which we start with absolutely nothing, and with the adequate prompts we get CoPilot to plot us a climatology of NSIDC, a time series annual averages of sea ice extent, and monthly cycle for each year. It shows how bad prompting returns funky results, and how you can iterate to finally get what you where asking.
 
-*Note: the images I have embedded in the notebooks are, for some reason, not displaying in GitHub. They do in gadi/local computer.*
+# Requirements to run these notebooks
+
+I think the best way to work in class will be with personal computers. In order to do so, students need to set up a python working environment, which is easily done in three steps:
+1. Install and editor - I've chose VS Code which is the same thing they use in KIT 101 and I like it a lot.
+2. Install miniconda 
+3. Install an environment already prepared that you can download from this repository (`ksa206.yml`). Not to fear, this is done by copy pasting one line of code. 
+
+**Complete instructions for setting up a python working environment in a computer (Mac, Linux and Windows) can be found in the [Wiki](https://github.com/julia-neme/KSA_Observations_Modelling/wiki)**
+
+# Content
+
+The tables below summarize the content created for the ocean's component of this course. The jupyter notebooks for each class can be downloaded by each student and ran interactively. Note that they require a conda environment with specific libraries installed (see [Requirements to run these notebooks](#requirements-to-run-these-notebooks)).
 
 ## Observations
 
 In these four classes students will learn:
 
-	1. What is a netcdf file, how to open it using `xarray` and how to explore the file structure and metadata (including dimensions, coordinates and attributes)
-	2. Work with ungridded data (CTDs) and interpolate onto a grid
-	3. Perform operations in gridded data products (selection, slicing, averages in different dimensions, integration, calculation of trends)
-	4. The concept of gradients and geostrophic balance
-	5. Lots of different ways to plot: scalars, timeseries, maps with `cartopy`, using colormaps (including `cmocean`), calculate trends and significance hatching, etc.
+1. What is a netcdf file, how to open it using `xarray` and how to explore the file structure and metadata (including dimensions, coordinates and attributes)
+2. Work with ungridded data (CTDs) and interpolate onto a grid
+3. Perform operations in gridded data products (selection, slicing, averages in different dimensions, integration, calculation of trends)
+4. The concept of gradients and geostrophic balance
+5. Lots of different ways to plot: scalars, timeseries, maps with `cartopy`, using colormaps (including `cmocean`), calculate trends and significance hatching, etc.
 
 | Class # | Topic                  | Learning goals/activities                                                                                                                                                                                                                                                                      |
 | ------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,6 +38,8 @@ Note: RV Investigator tour?
 
 ## Modelling
 
+**To be replaced (hopefully) by oceananigans**
+
 | Class # | Topic                                        | Learning goals/activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1       | Introduction to ACCESS-OM2 and creative time | - Overview of ACCESS-OM2 (components, forcing, etc)<br><br>Provide a mini dataset of the SO from ACCESS-OM2 IAF (temperature, salinity, oxygen, sea level, surface currents), divide into working groups, and have an attempt at using the code from the Observations part to do analysis of their choice on the model data. This will (a) provide a bit of a change of pace, (b) make them practice using CoPilot to help, (c) allow for interactions between students and (d) give the lecturer an idea of how much they are understanding and how hard can the assessment be.<br><br>We will provide suggestions of a couple different investigations they can carry out.<br><br>**If this is too much for this class it can either be moved forward or used as assessments** |
@@ -43,10 +48,5 @@ Note: RV Investigator tour?
 | 4       | Future projections experiment (continued)    | - Expand on previous class by looking at the experiment with meltwater changes included.<br>- Look at how, by looking at the difference between this class and last's simulations we can isolate the effect of meltwater.<br>- If there is time, questions + creative time. Use the output to look at what they want.                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 
-# Requirements to run these notebooks
-
-You can find this repository, with all the data necessary to run the notebooks in `/g/data/jk72/jn8053/KSA_Observations_Modelling`.
-
-If running in a local environment, the following libraries need to be installed: `cartopy`, `cmocean`, `glob`, `gsw`, `matplotlib`, `metpy`, `numpy`, `scipy`, `xarray` and `xarrayMannKendall`. 
-
-**For instructions on how to set up a python working environment in your local computer, head over to the [Wiki](https://github.com/julia-neme/KSA_Observations_Modelling/wiki)**
+##  Notes
+ - KIT101 (after zoom with Lawrence): this is a programming course the students will have done before KSA206. It is a course in `python` focused on students acquiring the programming logic, understanding algorithms, code structure, functions, etc. They don't use any libraries or conda - it is core python skills.
